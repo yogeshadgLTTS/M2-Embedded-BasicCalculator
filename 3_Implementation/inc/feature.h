@@ -9,8 +9,8 @@
  * 
  */
 
-#ifndef FEATURE_H_
-#define FEATURE_H_
+#ifndef __AVR_ATmega328__
+#define __AVR_ATmega328__
 
 #include <avr/io.h>
 #include <util/delay.h>
@@ -20,4 +20,4 @@
 
 
 
-#endif  /* #define FEATURE_H_ */
+#endif  /* #define __AVR_ATmega328__ */
