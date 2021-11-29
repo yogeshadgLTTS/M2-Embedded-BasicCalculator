@@ -1,4 +1,7 @@
-# M2_Embedded_ProjectGoal
+# M2_Embedded_Simple_Calculator
+
+This mini project is based on a simple calculator using keypad and LCD interfacing with AVR ATmega328 microcontroller.
+
 
 ## Folder Structure
 Folder             | Description
