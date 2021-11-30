@@ -1,9 +1,17 @@
 # Design
 
-## High Level Design 
+## Behavioural Diagram
+![flowchart](https://user-images.githubusercontent.com/88921546/144016127-19b965b4-b7ef-4852-97f0-b196e4d10e31.jpg)
 
---- TBD Structural and Behavioural Diagram
+## Structural Diagrams
 
-## Low Level Design 
+## Behavioural Diagrams
 
---- TBD Structural and Behavioural Diagram
+## Block Diagrams
+
+## Simulations
+
+## Bill of Materils
+
+
+
