@@ -12,9 +12,9 @@
 1. 4*4 Keypad Interface
 2. 16*2 LCD Interface
 3. AVR Atmega 328 Microcontroller
-4. 16Mz Crystal
-5. 10KΩ resistor
-6. 22pF capacitor
+4. 4 Mhz Crystal Oscillator
+5. 10 KΩ resistor
+6. 22 pF capacitor
 
 ## Software Used
 
