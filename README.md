@@ -11,7 +11,7 @@ Folder             | Description
 `3_Implementation` | All code and documentation
 `4_Test_plan`      | Documents with test plans and procedures
 `5_Report`         | Documentation of whole project
-`6_Images`         | All the output images of this project
+`6_Video`          | Working video of this project
 
 ## Contributors List and Summary
 
