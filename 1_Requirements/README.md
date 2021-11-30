@@ -78,14 +78,16 @@ A calculator is a device that performs numerical operations. The features of thi
 
 ## High Level Requirements
 | ID | Description | Status |
-|---|---|---|
-| HLR_1 |   |      |
-| HLR_2 |   |      |
-| HLR_3 |   |      |
+|----|-------------|--------|
+| HLR_1 | Control Unit | Implemented |
+| HLR_2 | Input Unit | Implemented |
+| HLR_3 | Output Unit | Implemented |
+| HLR_4 | Software Design | Implemented |
 
 ## Low Level Requirements
-| ID | Description | Status |
-|---|---|---|
-| LLR_1 |   |      |
-| LLR_2 |   |      |
-| LLR_3 |   |      |
+| ID | Description | HLR ID | Status |
+|----|-------------|--------|--------|
+| LLR_1 | AVR Atmega 328 Microcontroller | HLR_1 | Implemented |    
+| LLR_2 | 4*4 Keypad Interface | HLR_2 | Implemented |
+| LLR_3 | 16*2 LCD Interface | HLR_3 | Implemented |
+| LLR_4 | Visual Studio Code & Simulide | HLR_4 | Implemented |
