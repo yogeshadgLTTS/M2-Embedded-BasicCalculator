@@ -9,6 +9,8 @@ The purpose of the project is to build a simple calculator based on microcontrol
 1. 4 * 4 Keypad Interface
 2. 16 * 2 LM016L LCD Interface
 3. AVR Atmega 328
+4. 10KΩ resistor
+5. 22pF capacitor
 
 ## Software Used
 
