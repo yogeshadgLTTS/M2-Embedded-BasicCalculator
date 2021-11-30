@@ -1,4 +1,4 @@
-# TEST PLAN:
+# Test Plan
 
 ## High level test plan
 
