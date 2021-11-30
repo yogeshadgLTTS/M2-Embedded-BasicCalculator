@@ -23,13 +23,30 @@
 
 ## Cost and Feature
 
-A calculator is a device that performs numerical operations. This basic calculators can do only addition, subtraction, multiplication, and division.
+The cost of the hardware and software design is fixed and one-time investment only.
+
+A calculator is a device that performs numerical operations. The features of this basic calculator can perform only addition, subtraction, multiplication, and division.
 
 ## SWOT Analysis
 
 ### Strength
 
+1. The ultimate strength of calculators is its innovative and user-friendly.
+2. Calculators are long-lasting, and they have almost all kinds of basic numerical operations.
+
+### Weaknesses
+
+1. The storage capacity is low to store the previous operations.
+2. Always power supply is needed for the calculator to perform an operation.
+
+### Opportunities
+
+1. We can use a solar panel in calculators to reduce the power supply usage.
+
 ### Threats
+
+1. Nowadays people are not intrested in buying electronic calculator becuase calculator operations are implemented in our portable accessories like smartphones and laptops etc.
+
 
 ## 4W's and 1H
 
