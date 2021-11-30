@@ -1,7 +1,7 @@
 # Design
 
 ## Behavioural Diagram
-![flowchart](https://user-images.githubusercontent.com/88921546/144016127-19b965b4-b7ef-4852-97f0-b196e4d10e31.jpg)
+![Behavioural Diagram](https://user-images.githubusercontent.com/88921546/144017055-9f4b5ad9-839f-497d-8219-da422644bdcc.jpg)
 
 ## Structural Diagrams
 
