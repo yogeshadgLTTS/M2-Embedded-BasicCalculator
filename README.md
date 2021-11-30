@@ -1,4 +1,4 @@
-# M2-Embedded-SimpleCalculator
+# M2-Embedded-BasicCalculator
 
 This mini project is based on a simple calculator using keypad and LCD interfacing with AVR ATmega328 microcontroller.
 
