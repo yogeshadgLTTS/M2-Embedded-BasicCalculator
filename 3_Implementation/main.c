@@ -3,22 +3,39 @@
  * @author Kavin Vignes
  * @brief 
  * @version 0.1
- * @date 2021-11-27
+ * @date 2021-11-30
  * 
  * @copyright Copyright (c) 2021
  * 
  */
+#include "calculator.h"
+void reset_display(){
+	
+}
+int main(){
+  uint8_t key_press;
+  uint16_t *input;
+  uint16_t result;
 
-#include "feature.h"
+  lcd_init();
+  keypad_init();
+	
+  
+  while(1){
+	   key_press=keypad_scan();
+	   if(key_press !=0){	
+	   
+		if(key_press=='c'){
+			lcd_send_command(LCD_CMD_CLEAR_DISPLAY);
+			lcd_write_word("Enter Expression!");
+			lcd_goto_xy(1,0);
+			result=scan_and_eval();
+			print_result(result);
+			
+			}
+		}
+		
+   }
 
-/**
- * @brief 
- * 
- * @return int 
- */
-int main()
-{
-
-
-
+  return 0;
 }
