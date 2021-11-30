@@ -25,7 +25,12 @@
 
 The cost of the hardware and software design is fixed and one-time investment only.
 
-A calculator is a device that performs numerical operations. The features of this basic calculator can perform only addition, subtraction, multiplication, and division.
+A calculator is a device that performs numerical operations. The features of this basic calculator can perform 
+
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
 
 ## SWOT Analysis
 
@@ -52,13 +57,24 @@ A calculator is a device that performs numerical operations. The features of thi
 
 ### Why
 
+1. To perform the basic numerical operations.
+2. To reduce the manpower.
+
 ### Where
+
+1. The calculator can be operated from anywhere.
 
 ### Who
 
+1. Can be used by anyone for numerical operation
+
 ### When
 
+1. Anyone who have to solve a basic calculation.
+
 ### How
+
+1. Giving different inputs we can find their desired output.
 
 ## High Level Requirements
 | ID | Description | Status |
